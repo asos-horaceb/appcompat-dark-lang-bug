@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <androidx.preference.ListPreference
+        android:defaultValue="@string/pref_dark_mode_never"
+        android:entries="@array/pref_dark_mode_keys"
+        android:entryValues="@array/pref_dark_mode_values"
+        android:key="@string/pref_dark_mode"
+        android:title="@string/title_dark_mode"
+        app:iconSpaceReserved="false" />
+
+    <androidx.preference.ListPreference
+        android:defaultValue="@string/pref_language_english"
+        android:entries="@array/pref_language_keys"
+        android:entryValues="@array/pref_language_keys"
+        android:key="@string/pref_language"
+        android:title="@string/title_language"
+        app:iconSpaceReserved="false" />
+</androidx.preference.PreferenceScreen>

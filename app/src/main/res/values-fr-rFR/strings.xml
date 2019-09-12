@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">La langue</string>
+    <string name="action_settings">Réglages</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="title_dark_mode">Mode nuit</string>
+    <string name="dark_mode_setting_always">Toujours</string>
+    <string name="dark_mode_setting_never">Jamais</string>
+    <string name="dark_mode_setting_follow_system">Suivre le système</string>
+    <string name="title_language">La langue</string>
+    <string name="title_language_english">Anglaise</string>
+    <string name="title_language_french">Français</string>
+    <string name="title_language_spanish">Espanol</string>
+    <string name="action_text">Remplacez par votre propre action</string>
+</resources>

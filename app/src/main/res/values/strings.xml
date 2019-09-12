@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Language</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World</string>
+    <string name="title_dark_mode">Dark Mode</string>
+    <string name="pref_dark_mode" translatable="false">pref_dark_mode</string>
+    <string name="pref_dark_mode_follow_system" translatable="false">-1</string>
+    <string name="pref_dark_mode_never" translatable="false">1</string>
+    <string name="pref_dark_mode_always" translatable="false">2</string>
+    <string name="dark_mode_setting_always">Always</string>
+    <string name="dark_mode_setting_never">Never</string>
+    <string name="dark_mode_setting_follow_system">Follow system</string>
+    <string name="pref_language_english" translatable="false">en</string>
+    <string name="pref_language_spanish" translatable="false">es</string>
+    <string name="pref_language_french" translatable="false">fr</string>
+    <string name="title_language_english">English</string>
+    <string name="title_language_spanish">Spanish</string>
+    <string name="title_language_french">French</string>
+    <string name="title_language">Language</string>
+    <string name="pref_language" translatable="false">pref_language</string>
+    <string name="action_text">Replace with your own action</string>
+</resources>

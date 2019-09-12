@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="pref_dark_mode_keys">
+        <item>@string/dark_mode_setting_always</item>
+        <item>@string/dark_mode_setting_never</item>
+        <item>@string/dark_mode_setting_follow_system</item>
+    </string-array>
+
+    <string-array name="pref_dark_mode_values">
+        <item>@string/pref_dark_mode_always</item>
+        <item>@string/pref_dark_mode_never</item>
+        <item>@string/pref_dark_mode_follow_system</item>
+    </string-array>
+
+    <string-array name="pref_language_keys">
+        <item>@string/pref_language_english</item>
+        <item>@string/pref_language_spanish</item>
+        <item>@string/pref_language_french</item>
+    </string-array>
+
+</resources>
